@@ -1,0 +1,32 @@
+{
+  "name": "ttwz-mobile",
+  "version": "0.0.1",
+  "authors": [
+    "pat chen <laogong5i0@gmail.com>"
+  ],
+  "keywords": [
+    "backbone"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.ttwz168.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone.marionette": "~2.4.2"
+  },
+  "devDependencies": {
+    "almond": "~0.3.1",
+    "backbone-amd": "~1.1.0",
+    "backbone.localStorage": "backbone.localstorage#~1.1.16",
+    "json2": "*",
+    "ratchet": "~2.0.2",
+    "requirejs": "~2.1.20",
+    "requirejs-tpl": "*",
+    "underscore-amd": "~1.5.2"
+  }
+}

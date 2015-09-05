@@ -1,0 +1,16 @@
+/* CSS */
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+header.bar.bar-nav {
+    background-color: #da3b2b;
+}
+header a, header h1.title {
+	color:#fff;
+}
+
+
+/*---------------------------------------------------------------------------------*/
+@media screen and (min-width: 768px) {
+  
+}
